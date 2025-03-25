@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ejercicio1 {
+public class numeros {
     public static void main (String [] args){
         int valor1;
         valor1=Integer.parseInt(JOptionPane.showInputDialog(null,"ingresa el valor 1"));
