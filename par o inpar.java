@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ejercicio6 {
+public class par o inpar {
     public static void main (String [] args) {
         System.out.println("Numero par o impar");
         int N;
